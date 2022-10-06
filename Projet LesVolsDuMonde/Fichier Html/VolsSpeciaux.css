@@ -1,0 +1,46 @@
+body{ 
+    top: 50%;
+    left: 50%;
+    width: 80%;
+    margin: 10%;
+    padding:2% ;
+    background-image: url("https://i1.wp.com/www.lightzoomlumiere.fr/wp-content/uploads/2016/04/1-Airbus-Airspace-by-Airbus-A330neo-Ambiance%C2%A9Airbus.jpg?resize=1024%2C488&ssl=1") ;
+    background-size:cover;
+    border: 1px solid;
+    opacity: unset;
+  color: rgb(239, 240, 239);
+ 
+  
+  
+
+  }
+  h1{ color: rgb(255, 0, 98);
+  }
+
+/* --taille formulaire ajout utilisateur-- */
+.table,.div{
+  top: 50%;
+    left: 50%;
+ width: 80%;
+ margin: 5%;
+ padding:10%;
+ transform:translate(0%, 0%) ;
+ box-sizing: content-box;
+ background-color: rgba(0, 0, 0, 0.3);
+border-radius:0px ;
+ border: 0.1px solid #fff;
+ border: 1px solid #fff;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+  

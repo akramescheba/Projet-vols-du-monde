@@ -1,0 +1,64 @@
+body{ 
+    
+    background-image: url("http://www.letaillon.com/wp-content/uploads/2018/06/avion-3.jpg") ;
+background-size:cover;
+    border: 1px solid;
+    opacity: unset;
+  color: rgb(239, 240, 239);
+ 
+  /* https://www.lipair.ch/wp-content/uploads/2017/12/Privatjet_Innen.jpg */
+
+
+  }
+  h2,h3, h4 { text-transform: uppercase; text-shadow: 0 0 0.2em #0000FF;
+    color:#00FFFF
+
+  }
+  th{ text-transform: uppercase; text-shadow: 0 0 0.2em #FFFFFF;
+    color:#000000
+
+  }
+  td {  text-shadow: 0 0 0.2em #000000;
+    color: #FFFFFF
+
+  }
+  .card-footer{
+    background: #393b3a; 
+    font-family: "Fira Sans";
+    top: 88%;
+    position:auto;
+    bottom:0px;
+    left:0px;
+    right: 0px;
+    width: 100%;
+  }
+p {  text-shadow: 0 0 0.2em #0a0a0a;
+  color:#0b0b0b
+
+}
+
+/* --taille formulaire ajout utilisateur-- */
+.table{
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  margin: 7.7%;
+  padding:2% ;
+box-sizing: content-box;
+
+border-radius:0px ;
+ border: 0.1px solid #fff;
+ border: 1px solid #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
